@@ -1,7 +1,6 @@
-- Hi, I’m @EthanCui
-- Orca
-- Learning Java, C++, Python
-- Taking coding courses
+Ethan Cui
+Currently working with CV2 and AI vision
+
 
 <!---
 EthanCui2008/EthanCui2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
